@@ -14,7 +14,7 @@ The group focused on writing clean, functional code while efficiently dividing t
       - Concentrated on implementing the main programming logic.
 
 - **Kheam & Justine:**
-  - **Task:** "support and making repository"
+  - **Task:** "support and create a repository"
       - Created the repository.
       - Run the code and making sure it's running.
       - Invite all the members of the group.
