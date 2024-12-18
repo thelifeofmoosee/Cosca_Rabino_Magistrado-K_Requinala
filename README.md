@@ -15,5 +15,8 @@ The group focused on writing clean, functional code while efficiently dividing t
 
 - **Kheam & Justine**
   - **Task:** "          "
-      - 
+      - Created the repository.
+      - Run the code and making sure it's running.
+      - Invite all the members of the group.
+      - Analyze the consept and the idea of each member with their support.
 
