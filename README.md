@@ -13,3 +13,7 @@ The group focused on writing clean, functional code while efficiently dividing t
       - Handled the process of final file organization and completion.
       - Concentrated on implementing the main programming logic.
 
+- **Kheam & Justine**
+  - **Task:** "          "
+      - Ako to si alex na mahal na mahal kayo lahat "heart heart".
+
