@@ -15,5 +15,5 @@ The group focused on writing clean, functional code while efficiently dividing t
 
 - **Kheam & Justine**
   - **Task:** "          "
-      - Ako to si alex na mahal na mahal kayo lahat "heart heart".
+      - 
 
